@@ -1,0 +1,22 @@
+{
+    "name": "amulya",
+    "dob": "11-05-1990",
+    "address": [
+        {
+            "address-line1": "Basavanagr",
+            "address-line2": "Valu Bazar",
+            "City": "Bangalore",
+            "Type": "Home"
+
+        },
+        {
+            "address-line1": "Basavanagr",
+            "address-line2": "Valu Bazar",
+            "City": "Bangalore",
+            "Type": "Office"
+        }
+
+    ] ,
+    "City": "Karnataka"
+    
+}

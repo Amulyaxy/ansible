@@ -1,0 +1,18 @@
+- name: amulya
+  dob: 11-05-1990
+  address:
+    address-line1: Basavanagar
+    address-line2: valu bazar
+    city: bnglr
+  email: info@gmail.com
+
+- name: amulya
+  dob: 11-05-1990
+  address:
+  - address-line1: Basavanagar
+    address-line2: valu bazar
+    city: bnglr
+  - address-line1: Basavanagar
+    address-line2: valu bazar
+    city: bnglr
+  email: info@gmail.com

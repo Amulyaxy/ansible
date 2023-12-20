@@ -1,0 +1,29 @@
+<Person>
+    <name>Amulya</name>
+    <DOB>11/05/1990<DOB>
+    <Address>
+        <address-line1>Basavanagar</address-line1>
+        <address-line2>Near Value bazar</address-line2>
+        <street>1st main</street>
+        <city>Bnglr</city>
+    </Address>
+</Person>
+
+<Person>
+    <name>Amulya</name>
+    <DOB>11/05/1990<DOB>
+    <Address>
+        <Homeaddress>
+            <address-line1>Basavanagar</address-line1>
+            <address-line2>Near Value bazar</address-line2>
+            <street>1st main</street>
+            <city>Bnglr</city>
+        </Homeaddress>
+        <Officeaddress>
+            <address-line1>Basavanagar</address-line1>
+            <address-line2>Near Value bazar</address-line2>
+            <street>1st main</street>
+            <city>Bnglr</city>
+        </Officeaddress>
+    </Address>
+</Person>
