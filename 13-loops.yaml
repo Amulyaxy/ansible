@@ -7,7 +7,7 @@
       name: "{{item}}" #item is default keyword in ansible
       state: present
     loop:
-    - sql
+    - mysql
     - postfix
     - git
     
