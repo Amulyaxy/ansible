@@ -22,7 +22,7 @@
   
   - name: print map
     ansible.builtin.debug:
-      msg: "Experience: {{experience}}"
+      msg: "Experience: {{Experience}}"
 
   - name: print boolean
     ansible.builtin.debug:
