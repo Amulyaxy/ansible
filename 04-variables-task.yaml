@@ -9,4 +9,4 @@
     vars: 
       Course: "Devops with AWS"
     ansible.builtin.debug:
-    msg: "Hi learning {{Course}}, Trainer is {{Trainer}}, Duration is {{Duration}}"
+      msg: "Hi learning {{Course}}, Trainer is {{Trainer}}, Duration is {{Duration}}"
